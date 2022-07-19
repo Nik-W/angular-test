@@ -1,14 +1,14 @@
 [
   {
-    "type": "Overnight",
-    "price": 25.99
+    "type": "Online link",
+    "price": 99.99
   },
   {
-    "type": "2-Day",
-    "price": 9.99
+    "type": "USB flash drive",
+    "price": 24.99
   },
   {
-    "type": "Postal",
-    "price": 2.99
+    "type": "Floppy Disk",
+    "price": 4.99
   }
 ]
